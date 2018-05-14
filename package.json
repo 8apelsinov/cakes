@@ -1,0 +1,36 @@
+{
+  "name": "cakes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8apelsinov/cakes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8apelsinov/cakes/issues"
+  },
+  "homepage": "https://github.com/8apelsinov/cakes#readme",
+  "devDependencies": {
+    "autoprefixer": "^8.4.1",
+    "browser-sync": "^2.24.4",
+    "gulp": "^4.0.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-postcss": "^7.0.1"
+  },
+  "dependencies": {
+    "gulp-less": "^3.5.0",
+    "normalize.less": "^1.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "IE 11",
+    "Firefox ESR"
+  ]
+}
